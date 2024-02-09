@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+
+  <component name="ChangeListManager">
+    <list default="true" id="d9630683-59ec-4acd-8c10-7c0047b2f0f3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Raunak" afterDir="false" />
+    </list>
+
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+
     <list default="true" id="48c8cc4c-00eb-40a2-bde9-cf62f155f334" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/src/Soumya" beforeDir="false" afterPath="$PROJECT_DIR$/src/Soumya" afterDir="false" />
     </list>
+
+    <list default="true" id="55ab39d7-86f6-439f-9fee-ffd8d69c8048" name="Changes" comment="" />
+
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -19,10 +30,25 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2c8c9JgHez9DYFBNYvTm97vs8W2" />
+
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2c8cCgkMwKO4HTmuemZpSuRZeUz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+
+  <component name="ProjectId" id="2c8cBGbDexDaTXrV6EmN2C5hn83" />
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -46,6 +72,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1707496494139</updated>
+
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9630683-59ec-4acd-8c10-7c0047b2f0f3" name="Changes" comment="" />
+      <created>1707496519575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707496519575</updated>
+
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55ab39d7-86f6-439f-9fee-ffd8d69c8048" name="Changes" comment="" />
+      <created>1707496508707</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707496508707</updated>
     </task>
     <servers />
   </component>
